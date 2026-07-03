@@ -47,6 +47,12 @@ This project was completed as part of my **Data Analyst Internship** at **ApexPl
 - Continuously monitor KPIs to support business decisions.
 
 
+🎥 Project Demonstration
+
+This video provides a walkthrough of the interactive Power BI dashboard developed for Task 03. It covers KPI visualization, business insights, dashboard interactions, and the analytical approach used to support data-driven decision-making.
+https://drive.google.com/file/d/1XBpZ-imvLmqRrE3zFe61AKqpWk1CwJ2T/view?usp=drivesdk
+
+
 ```
 
 ## Conclusion
